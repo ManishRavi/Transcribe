@@ -16,7 +16,10 @@ Access Microphone:
 		<uses-permission android:name="android.permission.RECORD_AUDIO" /> 
 		
 This permission is required to take  voice input from the user.
-				
+		
+<img src="images/transcibe1.jpg">
+		
+		
 ## Getting Started	
 
 This project is a starting point for a Flutter application.
