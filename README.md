@@ -17,7 +17,7 @@ Access Microphone:
 		
 This permission is required to take  voice input from the user.
 		
-<img src="images/transcibe1.jpg">
+<img src="images/transcribe1.jpg" height="500px" width="300px"/>
 		
 		
 ## Getting Started	
